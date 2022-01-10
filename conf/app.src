@@ -1,7 +1,6 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/Kovah/LinkAce/releases/download/v1.8.1/linkace-v1.8.1.zip
+SOURCE_SUM=7fceafb5016854e0a4323a9b2b2eed6c4e319c72eab8c1a60b57def433c129dc
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
+SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
 SOURCE_EXTRACT=true
