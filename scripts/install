@@ -125,6 +125,16 @@ chmod 400 "$final_path/.env"
 chown $app:$app "$final_path/.env"
 
 #=================================================
+# BUILDING
+#=================================================
+ynh_script_progression --message="Building..." --weight=10
+
+# Setup application config
+pushd $final_path
+	php$phpversion artisan key:generate #-n --force --env
+popd
+
+#=================================================
 # SETUP SYSTEMD
 #=================================================
 ynh_script_progression --message="Configuring a systemd service..." --time --weight=1
