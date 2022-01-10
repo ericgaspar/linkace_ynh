@@ -1,4 +1,5 @@
-Some long and extensive description of what the app is and does, lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+LinkAce is a self-hosted archive to collect links of your favorite websites. Save articles to read them later, tools to use them in your next project, or historic content to archive it for the long term. LinkAce comes with a lot of features while keeping a clean and minimal interface.
+It provides a long-term archive to store links to websites, media files or anything else with a valid URL. The user is able to categorize the added links to be able to find them later, and share lists of links with friends, family or coworkers. However, LinkAce should not provide a solution to sync your browser bookmarks.
 
 ### Features
 
