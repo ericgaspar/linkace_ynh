@@ -1,4 +1,4 @@
-SOURCE_URL=https://github.com/Kovah/LinkAce/releases/download/v1.8.1/linkace-v1.9.1.zip
+SOURCE_URL=https://github.com/Kovah/LinkAce/releases/download/v1.9.1/linkace-v1.9.1.zip
 SOURCE_SUM=a07854b9ac730404f8f4901d51c479a1228b3d24fb1d76f10cd36a8bf8c2536d
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
